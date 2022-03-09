@@ -17,10 +17,9 @@
   <img align="center" alt="Ellisson-c" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
   <img align="center" alt="Ellisson-c++" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-plain.svg">
   <!--<img align="center" alt="Ellisson-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">-->
+    
+   ![Snake animation](https://github.com/EllissonSB/EllissonSB/blob/output/github-contribution-grid-snake.svg)
 </div>
-  <div>
-  ![Snake animation](https://github.com/EllissonSB/EllissonSB/blob/output/github-contribution-grid-snake.svg)
-  </div>
 <!--
 **EllissonSB/EllissonSB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
