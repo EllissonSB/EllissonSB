@@ -1,6 +1,6 @@
 ### Olá! Eu sou Ellisson Barbosa 👋
 - 🔭 Estou em busca de um estágio.
-- 🌱 Estuandao JavaScript.
+- 🌱 Estudando JavaScript.
 - 😄 Pronomes : ele/dele.
 <div align="center">
   <a href="https://github.com/EllissonSB">
