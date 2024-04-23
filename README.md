@@ -12,10 +12,6 @@
 ![Ashutosh's github activity graph](https://ssr-contributions-svg.vercel.app/_/maalpi?chart=3dbar&gap=0.6&scale=2&flatten=2&animation=wave&animation_duration=4&animation_delay=0.06&animation_amplitude=24&animation_frequency=0.1&animation_wave_center=0_3&format=svg&weeks=30&theme=blue&widget_size=medium&dark=true) 
 
 </div>
-
-### Olá! Eu sou Ellisson Barbosa 👋
-- 🔭 Estou em busca de um estágio.
-- 🌱 Estudando C/C++.
 <div align="center">
   <a href="https://github.com/EllissonSB">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EllissonSB&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
