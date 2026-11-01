@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Ellisson%20Barbosa&fontSize=46&fontColor=ffffff&fontAlignY=38&desc=Do%20hardware%20%C3%A0%20rede%20%7C%20Redes%20%26%20ISP%20%7C%20Firmware%20%7C%20Microeletr%C3%B4nica&descSize=16&descAlignY=60" alt="Header" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=190&section=header&text=Ellisson%20Barbosa&fontSize=46&fontColor=ffffff&fontAlignY=50" alt="Header" />
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=38BDF8&center=true&vCenter=true&width=720&lines=Engenheiro+de+Computa%C3%A7%C3%A3o+%7C+IFPB;Analista+de+Redes+em+ISP+(AS61831);BGP+%C2%B7+RPKI+%C2%B7+IX.br+%C2%B7+Huawei+NE8000;Firmware+STM32+%C2%B7+ESP32+%C2%B7+NB-IoT+%C2%B7+MQTT;RTL+%C2%B7+SystemVerilog+%C2%B7+UVM+%C2%B7+ASIC%2FFPGA;%F0%9F%9F%A2+Aberto+a+novas+oportunidades)](https://git.io/typing-svg)
 
@@ -116,19 +116,6 @@ Engenheiro de Computação (IFPB-CG, 2019–2025) com atuação **do hardware à
 - **Semiconductor 101** e **Verilog Language and Application v28.0**, Cadence
 - **Microeletrônica Digital**, Virtus-CC · **EmbarcaTech**, IFRN
 - Idiomas: Português (nativo) · Inglês (leitura e escrita intermediárias)
-
----
-
-## 📊 GitHub em números
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=EllissonSB&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Stats" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EllissonSB&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Linguagens" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=EllissonSB&theme=react-dark&hide_border=true&area=true" alt="Atividade" />
-
-</div>
 
 ---
 
